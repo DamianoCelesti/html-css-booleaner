@@ -45,3 +45,26 @@ header {
 .testo_foto{
     font-size: 12px;
 }
+
+
+.underline {
+    background-color: yellow;
+}
+
+.elenco {
+    padding-inline-start: 15px;
+}
+
+.tabella {
+    width: 100%;
+}
+
+
+.riga0{
+    color: aliceblue;
+    background-color: blue;
+}
+
+.riga1{
+    background-color: aqua;
+}
