@@ -30,6 +30,18 @@ header {
     color: blue;
 }
 
-.date{
+.date {
+    font-size: 12px;
+}
+
+.tim11 {
+    width: 41%;
+    height: auto;
+}
+.tim12 {
+    width: 35.1%;   
+}
+
+.testo_foto{
     font-size: 12px;
 }
