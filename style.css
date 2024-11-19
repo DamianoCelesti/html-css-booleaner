@@ -72,21 +72,12 @@ header {
 
 
 
-.tmonitor {
+.testof {
     position: absolute;
     color: white;
     font-weight: bold;
     font-size: 22px;
     left: 1%;
-    
-}
-
-.tgraph {
-    position: absolute;
-    left: 1%;
-    color: white;
-    font-weight: bold; 
-    font-size: 22px;
     
 }
 
